@@ -46,24 +46,15 @@ A responsive authentication system built using **HTML, Bootstrap 5, and custom C
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-
-![Login](login.png)
-
+![Login](screenshots/login.png)
 ### 📝 Registration Page
-
-![Register](register.png)
-
+![Register](screenshots/register.png)
 ### 🔑 Forgot Password
-
-![Forgot](forgot.png)
-
+![Forgot](screenshots/forgot.png)
 ### 🔄 Reset Password
-
-![Reset](reset.png)
-
+![Reset](screenshots/reset.png)
 ### 📊 Dashboard
-
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
